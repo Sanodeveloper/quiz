@@ -62,7 +62,6 @@ const changeHum = ()=>{
 }
 
 const changeBtn = ()=>{
-    console.log("aaaaaaaa")
     c.value = false;
     l.value ='100%';
 }
